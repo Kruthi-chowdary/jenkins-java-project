@@ -14,17 +14,17 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> ARTHAM INDHA MASTERUUUU.</h2>
+      <h2> Enter your info to Login</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>Email</label>
         </div>
         <div class="form-control">
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit"> BYE  </button>
+        <button type="submit"> LOGIN  </button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
@@ -33,7 +33,7 @@
           <a href="#">Need help?</a>
         </div>
       </form>
-      <p>New to NNNNNNNNNNNetflix? <a href="#">Lets join uxxp now</a></p>
+      <p>New to Netflix? <a href="#">Lets join Netflix now</a></p>
       <small>
         This page is protected by Google reCAPTCHA to ensure you're not a bot.
         <a href="#">Learn more.</a>
