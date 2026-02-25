@@ -35,7 +35,7 @@
       </form>
       <p>New to Netflix? <a href="#">Lets join Netflix now</a></p>
       <small>
-        This page is protected by Google reCAPTCHA to ensure you're not a robot.
+        This page is protected by Google reCAPTCHA to ensure you're not a robots.
         <a href="#">Learn more.</a>
       </small>
     </div>
